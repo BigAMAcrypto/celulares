@@ -1,0 +1,83 @@
+[
+    {
+        "cliente": "Carlos",
+        "marca": "Samsung",
+        "modelo": "A54",
+        "problema": "Pantalla rota",
+        "costo": "1500",
+        "estado": "En reparación",
+        "foto": "cel1.png"
+    },
+    {
+        "cliente": "María",
+        "marca": "Apple",
+        "modelo": "iPhone 13",
+        "problema": "La batería dura muy poco",
+        "costo": "900",
+        "estado": "Terminado",
+        "foto": "cel2.png"
+    },
+    {
+        "cliente": "Luis",
+        "marca": "Motorola",
+        "modelo": "G84",
+        "problema": "El equipo no enciende",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+    {
+        "cliente": "Rosa",
+        "marca": "Samnsung",
+        "modelo": "1",
+        "problema": "no sirve",
+        "costo": "500",
+        "estado": "Pendiente",
+        "foto": "cel3.png"
+    },
+        {
+        "cliente": "joan",
+        "marca": "motorola",
+        "modelo": "edge 60 fusion",
+        "problema": "se mojo",
+        "costo": "1000",
+        "estado": "Pendiente",
+        "foto": "cel4.jpg"
+    },
+        {
+        "cliente": "alan",
+        "marca": "Samnsung",
+        "modelo": "s21 ultra",
+        "problema": "tapa rota",
+        "costo": "350",
+        "estado": "Pendiente",
+        "foto": "cel5.jpeg"
+    },
+        {
+        "cliente": "maria",
+        "marca": "Samnsung",
+        "modelo": "a12",
+        "problema": "no sirve",
+        "costo": "700",
+        "estado": "Pendiente",
+        "foto": "cel6.jpeg"
+    },
+        {
+        "cliente": "maribel guardia",
+        "marca": "iphone",
+        "modelo": "7 plus",
+        "problema": "pantalla rota",
+        "costo": "500",
+        "estado": "Pendiente",
+        "foto": "cel7.jpeg"
+    },
+        {
+        "cliente": "miiguel",
+        "marca": "zte",
+        "modelo": "blade 70 max",
+        "problema": "se patio a la mital",
+        "costo": "3000",
+        "estado": "Pendiente",
+        "foto": "cel8.jpeg"
+    }
+]
